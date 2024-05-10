@@ -24,7 +24,7 @@ As well as providing the ability to building runtime firmware environments for E
  
 ## Basic Concepts
 
-The NodeNCU runtime offers a full implementation of the [LRM §2](https://www.lua.org/manual/5.3/manual.html#2) core concepts, with the following adjustments:
+The NodeMCU runtime offers a full implementation of the [LRM §2](https://www.lua.org/manual/5.3/manual.html#2) core concepts, with the following adjustments:
 
 ### Values and Types
 
@@ -46,7 +46,7 @@ The firmware includes the full coroutine implementation, but note that there are
 
 ## Lua Language
 
-The NodeNCU runtime offers a full implementation of the Lua language as defined in [LRM §3](https://www.lua.org/manual/5.3/manual.html#3) and its subsections.
+The NodeMCU runtime offers a full implementation of the Lua language as defined in [LRM §3](https://www.lua.org/manual/5.3/manual.html#3) and its subsections.
 
 ## The Application Program Interface
 
